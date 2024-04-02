@@ -1,0 +1,22 @@
+.container{
+    display: grid;
+    place-items: center;
+     border: 2px double gray ;
+     border-radius: 1rem;
+     height: 35em;
+     background-color: rgb(204, 218, 231);
+   }
+ 
+ 
+ .mt-5{
+     border: none;
+     height: auto;
+     background-color: transparent;
+ 
+ }
+ .header{
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    font-family: "algerian";
+ }
